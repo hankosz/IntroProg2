@@ -1,4 +1,4 @@
-// to jest wersja by argian
+// to jest moje magnum opus
 
 //LOSOWA MATRYCA
 
